@@ -56,6 +56,10 @@ module CredentialsManager
       setter(:team_name, *args, &_block)
     end
 
+    def country(*args, &_block)
+      setter(:country, *args, &_block)
+    end
+
     # Override Appfile configuration for a specific lane.
     #
     # lane_name  - Symbol representing a lane name. (Can be either :name, 'name' or 'platform name')
