@@ -34,8 +34,8 @@ You can easily delete the stored password by opening the "Keychain Access" app, 
 ## Using environment variables
 
 ```
-FASTLANE_USER
-FASTLANE_PASSWORD
+DELIVER_USER
+DELIVER_PASSWORD
 ```
 
 If you don't want to have your password stored in the Keychain use `FASTLANE_DONT_STORE_PASSWORD`.
