@@ -9,8 +9,4 @@
 
 ------
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fastlane/fastlane/master/credentials_manager/assets/credentials_manager.png" height="110">
-</p>
-
 <h3 align="center">💎🚀 <b>credentials_manager</b> has moved to the <b>fastlane</b> <a href='https://github.com/fastlane/fastlane/tree/master/credentials_manager'>main repo</a> 🚀💎</h2>
